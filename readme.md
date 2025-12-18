@@ -1,3 +1,5 @@
-Hello, git welcome to mu git
+Welcome Sam
+
+This is from dev-sam
 
 git-jsm here
